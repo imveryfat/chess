@@ -1,2 +1,2 @@
-# chess
-A python chess engine made by chatGPT
+# PythonChess
+A python chess engine made by chatGPT cuz why not
